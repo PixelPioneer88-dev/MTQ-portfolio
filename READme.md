@@ -33,3 +33,4 @@ A modern, responsive **personal portfolio website** for **Muhammad Tariq Qureshi
 ├── Style.css         # Stylesheet for layout and design  
 ├── Script.js         # JavaScript for interactivity & animations  
 ├── Assets/           # Images and favicon  
+
