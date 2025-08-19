@@ -1,5 +1,9 @@
 # 🌍 MTQ-portfolio  
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=flat&logo=github)](https://pixelpioneer88-dev.github.io/MTQ-portfolio/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://pixelpioneer88-dev.github.io/Portfolio/)  
+
 This site is open source. [Improve this page](https://github.com/PixelPioneer88-dev/MTQ-portfolio).  
 
 A modern, responsive **personal portfolio website** for **Muhammad Tariq Qureshi**, a Certified IOSH® Project HSE Manager with 20+ years of experience in **rail infrastructure, construction, and industrial safety management**.  
